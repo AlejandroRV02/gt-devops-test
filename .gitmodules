@@ -1,0 +1,6 @@
+[submodule "MEAN-Stack-User-Registration---Back-End"]
+	path = MEAN-Stack-User-Registration---Back-End
+	url = .\\MEAN-Stack-User-Registration---Back-End\\
+[submodule "MEAN-Stack-User-Registration-Front-End"]
+	path = MEAN-Stack-User-Registration-Front-End
+	url = .\\MEAN-Stack-User-Registration-Front-End\\
